@@ -11,7 +11,8 @@ Here is the data that I started with. There were more cereal options, but for th
 
 ![Starting Data Set](StartingData.png)
 
-You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv)
+You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
+
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
 ### Step 1 - Data -> Filter
