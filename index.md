@@ -30,6 +30,13 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 
 ### Step 2 - 
 
+
+
+
+
+
+
+
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
 
 
