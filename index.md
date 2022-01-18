@@ -13,9 +13,12 @@ Here is the data that I started with. There were more cereal options, but for th
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
 ### Data -> Filter
+To use the filter select a cell with data in it and click on the **Data** tab at the top of the Excel window.
 ![Filter Tool Location - Image 1](Data.png)
+Then find the **Filter & Sort** subsection and select the **Filter** button.
 ![Filter Tool Loaction - Image 2](Filter.png)
-
+Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
+![Name Dropdown Arrow](Name.png)
 
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
@@ -43,11 +46,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoraWagner/Filter/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
