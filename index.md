@@ -8,7 +8,7 @@ Someone may choose to use the filter tool when they are working with very large 
 
 ## How:
 Here is the data that I started with. There were more cereal options, but for the purpose of this tutorial and the validity of screenshots, I reduced the cereal options. I have kept all data points the same.
-![Starting Data Set](StartingData.png)
+![Starting Data Set](Starting Data.png)
 
 You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
 
@@ -37,7 +37,7 @@ The resulting data set shows all of the cereals that are 100 calories or less pe
 ### Filter Equation
 #### Step 1:
 `=FILTER(A1:P46,J1:J46>=10,"")`
-
+![Filtered Using Equation}(EquationFilter1.png)
 
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
