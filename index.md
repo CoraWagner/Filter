@@ -12,16 +12,17 @@ Here is the data that I started with. There were more cereal options, but for th
 
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
-### Data -> Filter
+### Step 1 - Data -> Filter
 To use the filter select a cell with data in it and click on the **Data** tab at the top of the Excel window.
 ![Filter Tool Location - Image 1](Data.png)
 
-Then find the **Filter & Sort** subsection and select the **Filter** button.
+Then find the **Sort & Filter** subsection and select the **Filter** button.
 ![Filter Tool Loaction - Image 2](Filter.png)
 
 Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
 ![Name Dropdown Arrow](Name.png)
 
+### Step 2 - 
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
 
