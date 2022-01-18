@@ -15,8 +15,10 @@ You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-
 ### Data -> Filter
 To use the filter select a cell with data in it and click on the **Data** tab at the top of the Excel window.
 ![Filter Tool Location - Image 1](Data.png)
+
 Then find the **Filter & Sort** subsection and select the **Filter** button.
 ![Filter Tool Loaction - Image 2](Filter.png)
+
 Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
 ![Name Dropdown Arrow](Name.png)
 
