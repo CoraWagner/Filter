@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Filter - Cora Wagner
 
 You can use the [editor on GitHub](https://github.com/CoraWagner/Filter/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
