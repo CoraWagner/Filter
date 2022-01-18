@@ -9,6 +9,7 @@ Someone may choose to use the filter tool when they are working with very large 
 ## How:
 Here is the data that I started with. There were more cereal options, but for the purpose of this tutorial and the validity of screenshots, I reduced the cereal options. I have kept all data points the same.
 ![Starting Data Set](StartingData.png)
+
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
 
