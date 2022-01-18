@@ -19,9 +19,11 @@ To use the filter select a cell with data in it and click on the **Data** tab at
 ![Filter Tool Location - Image 1](Data.png)
 
 Then find the **Sort & Filter** subsection and select the **Filter** button.
+
 ![Filter Tool Loaction - Image 2](Filter.png)
 
 Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
+
 ![Name Dropdown Arrow](Name.png)
 
 ### Step 2 - Select Category and Set Filter
