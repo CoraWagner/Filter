@@ -7,7 +7,7 @@ The filter tool allows you to easily clean data within Excel. You can quickly re
 Someone may choose to use the filter tool when they are working with very large data sets. When there are an abundance of data entries, it becomes time consuming to clean it. Using the filter tool makes it quick and easy to clean a large data set.
 
 ### How:
-
+![Starting Data Set](StartingData.png)
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
 
