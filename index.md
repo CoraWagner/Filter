@@ -8,15 +8,18 @@ Someone may choose to use the filter tool when they are working with very large 
 
 ## How:
 Here is the data that I started with. There were more cereal options, but for the purpose of this tutorial and the validity of screenshots, I reduced the cereal options. I have kept all data points the same.
+
 ![Starting Data Set](StartingData.png)
 
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
 ### Step 1 - Data -> Filter
 To use the filter select a cell with data in it and click on the **Data** tab at the top of the Excel window.
+
 ![Filter Tool Location - Image 1](Data.png)
 
 Then find the **Sort & Filter** subsection and select the **Filter** button.
+
 ![Filter Tool Loaction - Image 2](Filter.png)
 
 Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
