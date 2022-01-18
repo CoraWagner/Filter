@@ -1,4 +1,4 @@
-# Filter - Cora Wagner
+# Cora Wagner
 
 ## What:
 The filter tool allows you to easily clean data within Excel. You can quickly remove excess data that does not work for your research, and focalize the data you want to continue looking at.
@@ -20,6 +20,7 @@ Then find the **Sort & Filter** subsection and select the **Filter** button.
 ![Filter Tool Loaction - Image 2](Filter.png)
 
 Once you have clicked the **Filter** button, dropdown arrows will appear beside each heading cell.
+
 ![Name Dropdown Arrow](Name.png)
 
 ### Step 2 - 
