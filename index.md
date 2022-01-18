@@ -12,6 +12,10 @@ Here is the data that I started with. There were more cereal options, but for th
 
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
+### Data -> Filter
+![Filter Tool Location](FilterLocation.png)
+
+
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
 
