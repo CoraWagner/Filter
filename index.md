@@ -13,7 +13,8 @@ Here is the data that I started with. There were more cereal options, but for th
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
 ### Data -> Filter
-![Filter Tool Location](FilterLocation.png)
+![Filter Tool Location - Image 1](Data.png)
+![Filter Tool Loaction - Image 2](Filter.png)
 
 
 
