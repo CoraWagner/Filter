@@ -28,10 +28,12 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 
 ![Name Dropdown Arrow](Name.png)
 
-### Step 2 - 
+### Step 2 - Select Category and Set Filter
+I decided that I want to filter the cereals based on the amount of calories present per serving. I selected all the options less than calories.
+![Category Filter](CategoryFilter.png)
 
-
-
+The resulting data set shows all of the cereals that are 100 calories or less per serving.
+![Filtered Data Set](FilteredDataSet.png)
 
 
 
