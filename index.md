@@ -14,7 +14,8 @@ You can find my reduced cereal data set [here](https://github.com/CoraWagner/Fil
 
 You can find the full cereal data set [here](https://www.kaggle.com/crawford/80-cereals/version/2).
 
-### Step 1 - Data -> Filter
+### Filter Button
+#### Step 1: Data -> Filter
 To use the filter select a cell with data in it and click on the **Data** tab at the top of the Excel window.
 ![Filter Tool Location - Image 1](Data.png)
 
@@ -26,13 +27,15 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 
 ![Name Dropdown Arrow](Name.png)
 
-### Step 2 - Select Category and Set Filter
+#### Step 2: Select Category and Set Filter
 I decided that I want to filter the cereals based on the amount of calories present per serving. I selected all the options less than calories.
 ![Category Filter](FilterCategory.png)
 
 The resulting data set shows all of the cereals that are 100 calories or less per serving.
 ![Filtered Data Set](FilteredDataSet.png)
 
+### Filter Equation
+#### Step 1:
 
 
 
