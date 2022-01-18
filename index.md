@@ -36,7 +36,7 @@ The resulting data set shows all of the cereals that are 100 calories or less pe
 
 ### Filter Equation
 #### Step 1:
-
+`=FILTER(A1:P46,J1:J46>=10,"")`
 
 
 
