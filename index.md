@@ -51,7 +51,7 @@ Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
 
 The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar **AND** have less than 110 calories per serving.
 
-### Referenced Work
+## Referenced Work
 You can find the full cereal data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
 
 You can find more informaion about the filter tool at [Microsoft Support](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
