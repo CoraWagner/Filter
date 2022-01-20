@@ -37,15 +37,21 @@ The resulting data set shows all of the cereals that are 100 calories or less pe
 ### Filter Equation
 #### Single Criteria:
 Click on the cell you would like the new table to populate.
+
 Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
-The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
+
 ![Filtered Using Equation Single Criteria](EquationFilter1.png)
+
+The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
 
 #### Multiple Criteria:
 Click on the cell you would like the new table to populate.
+
 Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
-The formula will reutn a tablw that has filtered out all data entries that conain less than 10 grams of sugar **AND** have less than 110 calories per serving.
+
 ![Filtered Using Equations Multiple Criteria](MultipleCriteria.png)
+
+The formula will reutn a tablw that has filtered out all data entries that conain less than 10 grams of sugar **AND** have less than 110 calories per serving.
 
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
