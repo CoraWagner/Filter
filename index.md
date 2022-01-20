@@ -8,7 +8,7 @@ Someone may choose to use the filter tool when they are working with very large 
 
 ## How:
 Here is the data that I started with. There were more cereal options, but for the purpose of this tutorial and the validity of screenshots, I reduced the cereal options. I have kept all data points the same.
-![Starting Data Set](Starting Data.png)
+![Starting Data Set](StartingData.png)
 
 You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
 
