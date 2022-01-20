@@ -36,11 +36,15 @@ The resulting data set shows all of the cereals that are 100 calories or less pe
 
 ### Filter Equation
 #### Single Criteria:
-`=FILTER(A1:P46,J1:J46>=10,"")`
-![Filtered Using Equation}(EquationFilter1.png)
+Click on the cell you would like the new table to populate.
+Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
+![Filtered Using Equation Single Criteria](EquationFilter1.png)
 
 #### Multiple Criteria:
-`=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")`
+Click on the cell you would like the new table to populate.
+Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
+![Filtered Using Equations Multiple Criteria](MultipleCriteria.png)
+
 
 [Microsoft Support - Filter](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
 
