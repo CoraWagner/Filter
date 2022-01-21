@@ -37,7 +37,7 @@ When using the dropdown menus, you can filter as little or as many categories as
 ### Filter Equation
 The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
 
-You can find my reduced data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
+You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
 
 #### Single Criteria:
 Click on the cell you would like the new table to populate.
