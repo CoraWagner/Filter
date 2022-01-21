@@ -35,7 +35,7 @@ For the filtered data set pictured below I chose to focus on female student who 
 When using the dropdown menus, you can filter as little or as many categories as you would like. 
 
 ### Filter Equation
-The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
+The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/64398241e4bf459fe211d29a0dfd6b7b0c8fe05b/cereal.csv). 
 
 #### Single Criteria:
 Click on the cell you would like the new table to populate in.
