@@ -7,10 +7,12 @@ The filter tool allows you to easily clean data within Excel. You can quickly re
 Someone may choose to use the filter tool when they are working with very large data sets. When there is an abundance of data entries, it becomes time consuming to clean it. Using the filter tool makes it quick and easy to clean a large data set.
 
 ## How:
-Here is the data that I started with. There were more cereal options, but for the purpose of this tutorial and the validity of screenshots, I reduced the cereal options. I have kept all data points the same.
-![Starting Data Set](StartingData.png)
+Here is the data that I started with. It is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For the purpose of this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
 
-You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
+You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
+
+You can find the full data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
+![Starting Data Set](StartingData.png)
 
 ### Filter Button
 #### Step 1: Data -> Filter
@@ -52,6 +54,8 @@ Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
 The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar **AND** have less than 110 calories per serving.
 
 ## Referenced Work
-You can find the full cereal data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
+Reduced cereal data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
 
-You can find more informaion about the filter tool at [Microsoft Support](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
+Full cereal data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
+
+More informaion about the filter tool at [Microsoft Support](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
