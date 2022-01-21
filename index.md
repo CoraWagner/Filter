@@ -8,7 +8,7 @@ Someone may choose to use the filter tool when they are working with very large 
 
 ## How:
 ### Filter Button
-The first set of data shows the exam scores for students in varius studies showing the possible effect of home life and study habits. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/15c1c21ab73d47d9e0e35ea4782ee3e8f8cea992/StudentsPerformance.csv)
+The first set of data shows the exam scores for students in varius studies showing the possible effect of home life and study habits. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/15c1c21ab73d47d9e0e35ea4782ee3e8f8cea992/StudentsPerformance.csv).
 
 #### Step 1: Data -> Filter
 To use the filter, select a cell with data in it and click on the **Data** tab at the top of the Excel window.
@@ -24,13 +24,15 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 ![Name Dropdown Arrow](TestPreparationDropdown.png)
 
 #### Step 2: Select Category and Set Filter
-I decided that I want to filter the cereals based on the number of calories present per serving. I selected all the options less than calories.
+Each categories dropdown menu will look like this. It will give you an option to select all, or the ability to select each individual item in category. In my example image there are only two items to choose from.
 
 ![Category Filter](TestPreparationSelection.png)
 
-The resulting data set shows all the cereals that are 100 calories or less per serving.
+For the filtered data set pictured below I chose to focus on female student who have free/reduced lunch, completed the study course, and had a math score of 80 or higher. By choosing the different filters I was able to focus on 5 entries out of the 1,000 original entries.
 
 ![Filtered Data Set](Female_FreeLunch_Studied_80-100MathScore.png)
+
+When using the dropdown menues, you can filter as little or as many categories as you would like. 
 
 ### Filter Equation
 The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For the purpose of this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
