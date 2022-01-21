@@ -44,7 +44,7 @@ Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
 
 ![Filtered Using Equation Single Criteria](EquationFilter1.png)
 
-This formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
+This formula will return a table that has filtered out all data entries that contain 10 or less grams of sugar per serving.
 
 #### Multiple Criteria:
 Click on the cell you would like the new table to populate in.
@@ -53,7 +53,7 @@ Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
 
 ![Filtered Using Equations Multiple Criteria](MultipleCriteria.png)
 
-This formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar **AND** have less than 110 calories per serving.
+This formula will return a table that has filtered out all data entries that contain 10 or less grams of sugar **AND** have 110 or less calories per serving.
 
 ## Referenced Work
 Exam scores data set on [Kaggle](https://www.kaggle.com/spscientist/students-performance-in-exams)
