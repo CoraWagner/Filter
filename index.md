@@ -38,7 +38,7 @@ When using the dropdown menus, you can filter as little or as many categories as
 The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
 
 #### Single Criteria:
-Click on the cell you would like the new table to populate.
+Click on the cell you would like the new table to populate in.
 
 Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
 
@@ -47,7 +47,7 @@ Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
 This formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
 
 #### Multiple Criteria:
-Click on the cell you would like the new table to populate.
+Click on the cell you would like the new table to populate in.
 
 Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
 
