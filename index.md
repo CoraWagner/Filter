@@ -9,9 +9,10 @@ Someone may choose to use the filter tool when they are working with very large 
 ## How:
 Here is the data that I started with. It is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For the purpose of this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
 
-You can find my reduced cereal data set [here](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
+You can find my reduced data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
 
 You can find the full data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
+
 ![Starting Data Set](StartingData.png)
 
 ### Filter Button
