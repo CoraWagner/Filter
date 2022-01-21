@@ -8,7 +8,7 @@ Someone may choose to use the filter tool when they are working with very large 
 
 ## How:
 ### Filter Button
-The first set of data shows the exam scores for students in varius studies showing the possible effect of home life and study habits. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/15c1c21ab73d47d9e0e35ea4782ee3e8f8cea992/StudentsPerformance.csv).
+The first set of data shows the exam scores for students in various studies showing the possible effect of home life and study habits. You can find a copy of the data set through [GitHub](https://github.com/CoraWagner/Filter/blob/15c1c21ab73d47d9e0e35ea4782ee3e8f8cea992/StudentsPerformance.csv).
 
 #### Step 1: Data -> Filter
 To use the filter, select a cell with data in it and click on the **Data** tab at the top of the Excel window.
@@ -32,10 +32,10 @@ For the filtered data set pictured below I chose to focus on female student who 
 
 ![Filtered Data Set](Female_FreeLunch_Studied_80-100MathScore.png)
 
-When using the dropdown menues, you can filter as little or as many categories as you would like. 
+When using the dropdown menus, you can filter as little or as many categories as you would like. 
 
 ### Filter Equation
-The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For the purpose of this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
+The next data set is a collection of cereals and the dietary statistics that pertain to a serving of each cereal. For this tutorial, and the validity of screenshots, I reduced the cereal options. I have kept all data points the same. 
 
 You can find my reduced data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv). 
 
@@ -62,4 +62,4 @@ Exam scores data set on [Kaggle](https://www.kaggle.com/spscientist/students-per
 
 Cereal data set on [Kaggle](https://www.kaggle.com/crawford/80-cereals/version/2)
 
-More informaion about the filter tool at [Microsoft Support](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
+More information about the filter tool at [Microsoft Support](https://support.microsoft.com/en-us/office/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759)
