@@ -24,7 +24,7 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 ![Name Dropdown Arrow](TestPreparationDropdown.png)
 
 #### Step 2: Select Category and Set Filter
-Each categories dropdown menu will look like this. It will give you an option to select all, or the ability to select each individual item in category. In my example image there are only two items to choose from.
+Each dropdown menu will look like this. It will give you an option to select all, or the ability to select each individual item in the category. In my example image there are only two items to choose from.
 
 ![Category Filter](TestPreparationSelection.png)
 
