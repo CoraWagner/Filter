@@ -18,6 +18,7 @@ You can find the full data set on [Kaggle](https://www.kaggle.com/crawford/80-ce
 ### Filter Button
 #### Step 1: Data -> Filter
 To use the filter, select a cell with data in it and click on the **Data** tab at the top of the Excel window.
+
 ![Filter Tool Location - Image 1](Data.png)
 
 Then find the **Sort & Filter** subsection and select the **Filter** button.
@@ -30,9 +31,11 @@ Once you have clicked the **Filter** button, dropdown arrows will appear beside 
 
 #### Step 2: Select Category and Set Filter
 I decided that I want to filter the cereals based on the number of calories present per serving. I selected all the options less than calories.
+
 ![Category Filter](FilterCategory.png)
 
 The resulting data set shows all the cereals that are 100 calories or less per serving.
+
 ![Filtered Data Set](FilteredDataSet.png)
 
 ### Filter Equation
@@ -43,7 +46,7 @@ Type `=FILTER(A1:P46,J1:J46>=10,"")` into the Formula Bar.
 
 ![Filtered Using Equation Single Criteria](EquationFilter1.png)
 
-The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
+This formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar per serving.
 
 #### Multiple Criteria:
 Click on the cell you would like the new table to populate.
@@ -52,7 +55,7 @@ Type `=FILTER(A1:P46,(J1:J46>=10)*(D1:D46>110),"")` into the Formula Bar.
 
 ![Filtered Using Equations Multiple Criteria](MultipleCriteria.png)
 
-The formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar **AND** have less than 110 calories per serving.
+This formula will return a table that has filtered out all data entries that contain less than 10 grams of sugar **AND** have less than 110 calories per serving.
 
 ## Referenced Work
 Reduced cereal data set through [GitHub](https://github.com/CoraWagner/Filter/blob/68e98fe8761e2745150774e25eca10c4593a7398/cereal.csv).
